@@ -109,8 +109,6 @@ function Calculator() {
             </div>
           </div>
 
-             {/* <button type='Submit' onClick={implementCalculation}></button> */}
-
              
         </form>
         
