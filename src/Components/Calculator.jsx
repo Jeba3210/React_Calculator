@@ -107,7 +107,9 @@ function Calculator() {
                 <button type='submit' className='h-10 w-11 bg-green-400 mr-10 rounded-md  font-bold text-xl text-slate-100' onClick={implementModulo}><span>&#37;</span></button>
             </div>
           </div>
+
            <div className='mt-8 flex justify-center place-items-center h-10 w-40 bg-green-400 text-slate-200 rounded-lg  font-bold text-xl ml-36'> <button>Reset<i className="material-icons">&#8634;</i></button></div>
+
 
              
         </form>
