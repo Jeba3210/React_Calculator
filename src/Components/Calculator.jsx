@@ -108,7 +108,7 @@ function Calculator() {
             </div>
           </div>
 
-           <div className='mt-8 flex justify-center place-items-center h-10 w-40 bg-green-400 text-slate-200 rounded-lg  font-bold text-xl ml-36'> <button>Reset<i className="material-icons">&#8634;</i></button></div>
+           {/* <div className='mt-8 flex justify-center place-items-center h-10 w-40 bg-green-400 text-slate-200 rounded-lg  font-bold text-xl ml-36'> <button onClick={implementReset}>Reset</button></div> */}
 
 
              
